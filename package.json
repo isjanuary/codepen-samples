@@ -1,0 +1,26 @@
+{
+  "name": "codepen-samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isjanuary/codepen-samples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isjanuary/codepen-samples/issues"
+  },
+  "homepage": "https://github.com/isjanuary/codepen-samples#readme",
+  "dependencies": {
+    "gsap": "^3.11.5"
+  },
+  "devDependencies": {
+    "sass": "^1.62.1"
+  }
+}
